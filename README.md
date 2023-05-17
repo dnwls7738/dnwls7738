@@ -4,7 +4,7 @@
   
 ####  :wave: Welcome my github profile !
 
-  
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={dnwls7738})](https://github.com/loosie/github-readme-tistory-card)
  <br/>
  <br/>
   
