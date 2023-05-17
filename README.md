@@ -4,7 +4,8 @@
   
 ####  :wave: Welcome my github profile !
 
-[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name={dnwls7738})](https://github.com/loosie/github-readme-tistory-card)
+[![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=dnwls7738)](https://github.com/loosie/github-readme-tistory-card)
+  [![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=dnwls7738&postId={insert_postId})](https://github.com/loosie/github-readme-tistory-card)
  <br/>
  <br/>
   
