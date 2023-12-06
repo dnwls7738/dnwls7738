@@ -10,7 +10,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=#61DAFB">
 <img src="https://img.shields.io/badge/Flutter-4479A1?style=for-the-badge&logo=Flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-4479A1?style=for-the-badge&logo=Dart&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-4479A1?style=for-the-badge&logo=React-Native&logoColor=white">
  
    <br/>
  
