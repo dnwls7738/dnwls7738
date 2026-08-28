@@ -21,13 +21,6 @@
 
 <br/>
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=dnwls7738&show_icons=true&theme=default&hide_border=true" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dnwls7738&hide_border=true" width="48%">
-
-<br/>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:6DB33F&height=100&section=footer)
 
 </div>
